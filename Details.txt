@@ -1,6 +1,0 @@
-MONGO_URI: mongodb+srv://femilranparia_db_user:uL9Qjvgfv52Tr9Dm@task-vault.hxa4l4z.mongodb.net/?appName=task-vault
-
-pass:  uL9Qjvgfv52Tr9Dm
-userame:  femilranparia_db_user
-
-remaining from phase 1.5
